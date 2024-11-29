@@ -1,4 +1,4 @@
-ni# 📦 Inventory Management System
+# 📦 Inventory Management System
 A robust Inventory Management System built with PHP (CodeIgniter), designed to streamline inventory, sales, and customer management for businesses.
 
 ## 🚀 Key Features
