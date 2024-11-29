@@ -1,4 +1,4 @@
-# 📦 Inventory Management System
+ni# 📦 Inventory Management System
 A robust Inventory Management System built with PHP (CodeIgniter), designed to streamline inventory, sales, and customer management for businesses.
 
 ## 🚀 Key Features
@@ -35,5 +35,7 @@ View total sales, detailed daily/monthly/yearly reports
 Configure company details, service charges, VAT rates
 ## 🛠️ Tech Stack
 Backend: PHP (CodeIgniter)
+
 Frontend: Bootstrap, HTML, CSS
+
 Database: MySQL
