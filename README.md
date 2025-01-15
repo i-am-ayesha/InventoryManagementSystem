@@ -1,5 +1,7 @@
 # 📦 Inventory Management System
 A robust Inventory Management System built with PHP (CodeIgniter), designed to streamline inventory, sales, and customer management for businesses.
+![image](https://github.com/user-attachments/assets/0b3765a0-e16f-4fdc-a882-5e98267c251f)
+
 
 ## 🚀 Key Features
 ### 🛒 Product & Inventory Management
